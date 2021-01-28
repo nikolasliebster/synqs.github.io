@@ -25,6 +25,7 @@ interests:
 - Cold Atoms
 - Quantum Simulation
 - Gender and Racial Equality in Physics
+- 2D Cold Atom Physics
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
